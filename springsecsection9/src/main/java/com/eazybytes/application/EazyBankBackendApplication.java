@@ -18,6 +18,7 @@ public class EazyBankBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EazyBankBackendApplication.class, args);
+		System.out.println("Hello Dears How are you");
 	}
 
 }
